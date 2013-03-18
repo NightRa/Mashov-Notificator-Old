@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ScalaJ Http 2.10 3.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalaj-http_2.10-0.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
