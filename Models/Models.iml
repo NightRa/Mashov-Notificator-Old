@@ -17,8 +17,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-library" level="application" />
-    <orderEntry type="library" scope="TEST" name="ScalaTest 2.10 1.9.1" level="project" />
     <orderEntry type="library" scope="TEST" name="JUnit-4.10" level="project" />
+    <orderEntry type="module" module-name="NightRa Test" scope="TEST" />
   </component>
 </module>
 
