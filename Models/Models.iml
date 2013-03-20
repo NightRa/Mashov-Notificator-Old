@@ -19,6 +19,7 @@
     <orderEntry type="library" name="scala-library" level="application" />
     <orderEntry type="library" scope="TEST" name="JUnit-4.10" level="project" />
     <orderEntry type="module" module-name="NightRa Test" scope="TEST" />
+    <orderEntry type="module" module-name="Scala Utilities" />
   </component>
 </module>
 

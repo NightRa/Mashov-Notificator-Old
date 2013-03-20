@@ -1,21 +1,22 @@
 //Created By Ilan Godik
-package NightRa.models
+package NightRa.models.subject
 
 import org.junit.Test
 import NightRa.test.Assertions
+import NightRa.models.Builders._
 
 class SubjectTest extends Assertions{
   val subject = new Subject("Citizenship","Golan")
 
   @Test
   def testPartialConstructorTeacher() {
-    val subj = grades.Subject(teacherName = "Eli")
+    val subj = Subject(teacherName = "Eli")
     assert("Eli" == subj.teacherName)
   }
 
   @Test
   def testPartialConstructorName() {
-    val sub = grades.Subject("History")
+    val sub = Subject("History")
     "History" === sub.name
   }
 
