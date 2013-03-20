@@ -8,7 +8,6 @@ class Assertions(expected: Any)(implicit val doublePrecision:Double = 0.01) {
   //               Of type:  Able to retrieve:
   def intercept[T <: Throwable : Manifest](f: => Any): T = {
     val expectedName = manifest.runtimeClass.getName
-//    println(s"Expected name: $expectedName")
     val actual = try { // The exception
       f //Preform throwing operation
       None //Nothing thrown
