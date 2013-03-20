@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mashov-Notificator.iml" filepath="$PROJECT_DIR$/Mashov-Notificator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Models/Models.iml" filepath="$PROJECT_DIR$/Models/Models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NightRa Test/NightRa Test.iml" filepath="$PROJECT_DIR$/NightRa Test/NightRa Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scala Utilities/Scala Utilities.iml" filepath="$PROJECT_DIR$/Scala Utilities/Scala Utilities.iml" />
     </modules>
   </component>
 </project>

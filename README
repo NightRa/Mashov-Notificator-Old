@@ -1,1 +1,7 @@
-This file was created by IntelliJ IDEA (Leda) IU-129.17 for binding GitHub repository
+The Mashov Notificator will:
+    Be a local GUI for Mashov.
+    Check all your data on Mashov every set amount of time.
+    Notify you on:
+        New grades.
+        New behavior comments.
+        New messages.
