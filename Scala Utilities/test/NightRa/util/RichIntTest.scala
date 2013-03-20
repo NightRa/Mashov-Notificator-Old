@@ -15,4 +15,9 @@ class RichIntTest extends Assertions {
   def testWith0Prefix2() {
     "00019" === 19.with0Prefix(5)
   }
+
+  @Test
+  def testWith0Prefix3() {
+    "193" === 193.with0Prefix(2)
+  }
 }
