@@ -1,0 +1,10 @@
+<BehaviorNotes>
+    <Type positivity="2">חיזוק חיובי</Type>
+    <Type positivity="0">העדרות</Type>
+    <Type positivity="-1">ללא שעורי בית</Type>
+    <Type positivity="-1">איחור</Type>
+    <Type positivity="-1">ללא תלבושת</Type>
+    <Type positivity="-1">ללא ציוד</Type>
+    <Type positivity="-2">הפרעה</Type>
+    <Type positivity="-3">כרטיס אדום</Type>
+</BehaviorNotes>
