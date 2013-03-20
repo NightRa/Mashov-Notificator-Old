@@ -19,7 +19,6 @@
     <orderEntry type="library" name="scala-library" level="application" />
     <orderEntry type="library" name="ScalaFX 2.10 M2" level="project" />
     <orderEntry type="library" name="ScalaJ Http 2.10 3.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="ScalaTest 2.10 1.9.1" level="project" />
     <orderEntry type="library" scope="TEST" name="JUnit-4.10" level="project" />
   </component>
 </module>
